@@ -2,4 +2,4 @@
 
 Another mini work from the Institute.
 
-Console project on C++
+A C++ console program that shows how to work with an array.
